@@ -1,12 +1,14 @@
-##Live Website Link
-https://sajjadsadiq.github.io/single-page-new-page/
+# [Single Page News Template](https://sajjadsadiq.github.io/single-page-new-page/)
 
-###Desktop
-(./public/img/desktop.png)
 
-###MObile Responsive
-./public/img/mobile.png
+## [Raw CSS News Template - Single Page]
 
-###Language Use
-- HTML
-- CSS
+This project is a html, CSS version.
+
+Check the [Live Demo here](https://sajjadsadiq.github.io/single-page-new-page/).
+
+### [Desktop Version]
+![](desktop.png)
+
+### [Mobile Responsive Version]
+![](mobile.png)
